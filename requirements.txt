@@ -1,5 +1,3 @@
 numpy
-matplotlib.pyplot
-matplotlib.widgets
-ipywidgets
+matplotlib
 ipywidgets
